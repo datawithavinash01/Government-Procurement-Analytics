@@ -165,3 +165,17 @@ The cleaned dataset and Power BI file are not included in the repository because
 ### Organization Analysis
 
 ![Organization Analysis](screenshots/Organization%20Analysis.png)
+
+
+## Project Files
+
+### SQL
+The `sql` folder contains the SQL queries used for the analysis.
+
+### Power BI
+The Power BI dashboard is shown through the screenshots in the `screenshots` folder.
+
+The original `.pbix` file is not included in the repository because of its large file size.
+
+### Dataset
+The cleaned dataset is also not included because of its large file size.
