@@ -29,7 +29,7 @@ The project covers the complete process from data cleaning and analysis to SQL a
 ## Dataset
 
 The dataset is based on government procurement data from the Central Public Procurement Portal (CPPP).
-The data was collected and published as a public dataset by Sarthak Sidhant.
+The data was collected and published as a public dataset by Sarthak Sidhant.Source: https://tender.sarthaksidhant.com/
 The database contains multiple tables. For this project, I mainly worked with:
 
 - `aoc_tenders` – tender-level information such as tender ID, year, dates, portal type and organization
@@ -148,11 +148,10 @@ government-procurement-analytics/
 │   └── Power BI dashboard screenshots
 │
 └── README.md
-The cleaned dataset and Power BI file are not included in the repository because of their large file sizes.
 ```
+The cleaned dataset and Power BI file are not included in the repository because of their large file sizes.
 
-
-## Power BI Dashboard
+## Dashboard Screenshots
 
 ### Executive Overview
 
