@@ -149,3 +149,19 @@ government-procurement-analytics/
 │
 └── README.md
 The cleaned dataset and Power BI file are not included in the repository because of their large file sizes.
+```
+
+
+## Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](screenshots/Executive_Overview.png)
+
+### Tender & Contract Analysis
+
+![Tender and Contract Analysis](screenshots/Tender%20and%20Contract%20Analysis.png)
+
+### Organization Analysis
+
+![Organization Analysis](screenshots/Organization%20Analysis.png)
